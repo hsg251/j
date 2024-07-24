@@ -98,4 +98,4 @@ troll đấy kéo xuống tiếp đi
 
 
 thực ra cái này là free chứ mua rồi cho bọn mày cái lồn á=))
-loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
+loadstring(game:HttpGet"https://raw.githubusercontent.com/PNguyen0199/Script/main/Fai-Fao.lua")() 
